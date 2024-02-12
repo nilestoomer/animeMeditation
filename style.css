@@ -16,6 +16,7 @@ body {
 
 
 body > h1 {
+    font-family: 'Noto Sans JP', sans-serif;
     margin: 0 auto;
 }
 
@@ -43,6 +44,10 @@ body > h1 {
     color: pink;
     justify-content: center;
     padding-top: 1em;
+}
+
+#mainTitle {
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .shows {
