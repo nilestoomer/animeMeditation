@@ -40,7 +40,7 @@ function displaySelectedQuote(anime) {
     <div class="animeQuote">
       <div class="something">${animeName}</div>
       <div>"${quote1}"</div>
-      <div class="the-goat">-&nbspNiles Toomer</div>
+      <div class="the-goat">-&nbsp<em>Niles Toomer</em></div>
     </div>
     `;
 
