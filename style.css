@@ -1,0 +1,112 @@
+html {
+    height: 100%;
+}
+
+body {
+    /* display: flex;
+    justify-content: center; */
+    margin: auto;
+    color: white;
+    background-image: url(https://www.shutterstock.com/image-vector/enchanting-anime-landscape-mistcovered-mountain-600nw-2301778699.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body > h1 {
+    margin: 0 auto;
+}
+
+#anime-choice {
+    color: aliceblue;
+    text-align: center;
+    background: inherit;
+}
+
+.mainContent {
+    display: flex;
+    color: rgb(254, 22, 5);
+    justify-content: center;
+    flex-wrap: no-wrap;
+    text-align: center;
+    border: ridge;
+    background-color: beige;
+    width: 70%;
+    margin: auto;
+    padding: 3em;
+}
+
+.title {
+    display: flex;
+    color: pink;
+    justify-content: center;
+    padding-top: 1em;
+}
+
+.shows {
+    display: flex;
+}
+
+#dailyHeader {
+    text-align: center;
+}
+
+.actionButton {
+    /* display: flex;
+    justify-content: center;
+    margin: auto; */
+    padding: 1em;
+}
+
+/* label, #anime-choice {
+    display: flex;
+    justify-content: center;
+} */
+
+.anime-stuff {
+    text-align: center;
+    padding: 1em 2em;
+}
+
+label {
+    margin: auto;
+}
+
+h3 {
+    text-align: right;
+}
+
+
+.the-goat {
+    text-align: right;
+}
+
+/* div {
+    text-align: center;
+} */
+.settings-button {
+    text-align: right;
+    padding: 1em;
+}
+
+.selectedMeditation {
+    display: flex;
+    justify-content: center;
+}
+
+.something {
+    padding: 1em;
+}
+
+@media (max-width: 600px) {
+    body {
+        background-image: url(https://wallpapercave.com/wp/wp4814719.jpg);
+    }
+
+    .mainContent {
+        display: flex;
+        justify-content: center;
+    }
+}
