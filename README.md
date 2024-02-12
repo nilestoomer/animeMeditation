@@ -1,6 +1,5 @@
 # Anime Meditations
 
-<!-- <img src="https://imgur.com/HOcner4" width="700"> -->
 
 ![alt text](https://i.imgur.com/UuSnZnK.png "Logo Title Text 1")
 

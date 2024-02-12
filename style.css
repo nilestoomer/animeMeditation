@@ -46,9 +46,9 @@ body > h1 {
     padding-top: 1em;
 }
 
-#mainTitle {
+/* #mainTitle {
     font-family: 'Noto Sans JP', sans-serif;
-}
+} */
 
 .shows {
     display: flex;
