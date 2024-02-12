@@ -1,6 +1,11 @@
 # Anime Meditations
 
-<img src="https://imgur.com/HOcner4" width="700">
+<!-- <img src="https://imgur.com/HOcner4" width="700"> -->
+
+![alt text](https://i.imgur.com/UuSnZnK.png "Logo Title Text 1")
+
+## Summary
+Amine Meditations is an app that provides affirmations from a wide array of popular Animes
 
 ## Summary
 Amine Meditations is an app that provides affirmations from a wide array of popular Animes
